@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/drawable/base_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/drawable/invalid_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/drawable/pending_button.xml" value="0.13802083333333334" />
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/drawable/progress_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/drawable/question_drawable.xml" value="0.2755208333333333" />
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/font/poppins.xml" value="0.28958333333333336" />
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/font/text_view_font.xml" value="0.28958333333333336" />
+        <entry key="..\:/Data/www/TopQuiz/app/src/main/res/layout/activity_game.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

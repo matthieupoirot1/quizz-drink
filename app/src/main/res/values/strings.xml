@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="main_home_text">Bienvenue ! Quel est votre nom ?</string>
+    <string name="main_name_input_placeholder">Entrez votre nom…</string>
+    <string name="main_button_validation">Button</string>
+    <string name="main_name_input_hint">Champ d\'acquisition de texte</string>
+</resources>
